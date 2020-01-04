@@ -1,0 +1,13 @@
+form_page:
+
+  path: '/first-form'
+
+  defaults:
+
+    _title: 'First Form'
+
+    _form: 'Drupal\first_form\Form\FirstForm'
+
+  requirements:
+
+    _permission: 'access content'

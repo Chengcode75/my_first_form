@@ -1,0 +1,10 @@
+
+name: First Form
+
+description: 'This is my first form and it takes personal details from users.'
+
+type: module
+
+package: Custom
+
+core: 8.x
